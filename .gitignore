@@ -76,6 +76,8 @@ docs/_build/
 target/
 
 # Jupyter Notebook
+*/.DS_Store
+.DS_Store
 .ipynb_checkpoints
 FIFA World Cup Data Cleaning/.ipynb_checkpoints
 Data Analysis with Python - coaster/.ipynb_checkpoints
